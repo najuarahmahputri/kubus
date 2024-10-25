@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kalkulator Kubus</string>
+    <string name="title">Hitung Kubus</string>
+    <string name="hint_input">Masukkan panjang rusuk (cm)</string>
+    <string name="calculate_volume">Hitung Volume</string>
+    <string name="calculate_surface_area">Hitung Luas Permukaan</string>
+    <string name="result">Hasil:</string>
+    <string name="volume_result">Volume: %1$.2f cm³</string>
+    <string name="surface_area_result">Luas Permukaan: %1$.2f cm²</string>
+</resources>
